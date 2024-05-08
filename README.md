@@ -9,4 +9,4 @@ The code can be entirely run on Google colab or jupyter notebook to train the mo
 
 Streamlit is used to developed the web app.
 
-Run Streamlit.py in the machine using **streamlit run file_name** (Streamlit.py here)
+Run Streamlit.py in the machine using command **streamlit run file_name** (Streamlit.py here)
