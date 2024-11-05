@@ -1,6 +1,6 @@
 
-Movie Recommendation System
-
+**Movie Recommendation System
+**
 This project is a comprehensive movie recommendation system that leverages both content-based and collaborative filtering approaches to provide personalized movie suggestions. To further enhance recommendation accuracy, neural network models are also implemented. The system ultimately selects the best-performing model for movie recommendations.
 
 Dataset: MovieLens 100k
